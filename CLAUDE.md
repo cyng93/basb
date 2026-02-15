@@ -27,7 +27,7 @@ This repo uses a **personal SSH key** via SSH config alias (separate from work k
 
 ### SSH Config Entry
 
-```
+```text
 Host github.com-cyng93
   HostName github.com
   User git
